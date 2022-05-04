@@ -4,6 +4,3 @@
 [submodule "lyz-ideas-admin"]
 	path = lyz-ideas-admin
 	url = https://github.com/mercklyzer/lyz-ideas-admin
-[submodule "lyz-ideas-client"]
-	path = lyz-ideas-client
-	url = https://github.com/mercklyzer/lyz-ideas-client
