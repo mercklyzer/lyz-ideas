@@ -1,3 +1,6 @@
 [submodule "lyz-ideas-api"]
 	path = lyz-ideas-api
 	url = https://github.com/mercklyzer/lyz-ideas-api
+[submodule "lyz-ideas-admin"]
+	path = lyz-ideas-admin
+	url = https://github.com/mercklyzer/lyz-ideas-admin
