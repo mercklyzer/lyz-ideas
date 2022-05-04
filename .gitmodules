@@ -1,0 +1,3 @@
+[submodule "lyz-ideas-api"]
+	path = lyz-ideas-api
+	url = https://github.com/mercklyzer/lyz-ideas-api
